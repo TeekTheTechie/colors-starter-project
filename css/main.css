@@ -65,20 +65,28 @@ footer {
 
   #column-1 {
     background-color: aqua ;
+
   }
 
   #column-2 {
     background-color:coral ;
+    
   }
 
   #column-3 {
     background-color: blue ;
+    width: 100%;
   }
+
+  
 
   footer {
     background-color: darkseagreen ;
   }
   
+  .col-3 {
+    width: 50%;
+  }
 }
 
 
@@ -90,18 +98,26 @@ footer {
 
   #column-1 {
     background-color: darkmagenta;
+    
   }
 
   #column-2 {
     background-color: deeppink;
+    
+
   }
 
   #column-3 {
     background-color: deepskyblue;
+    width: 33.3%;
+
   }
 
   footer {
     background-color: gold ;
   }
    
+  .col-3 {
+    width: 33.3%;
+  }
 }
